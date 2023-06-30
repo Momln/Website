@@ -5,7 +5,7 @@ body {
 
 #hero {
     position:absolute;
-    left: 0;
+    left: 100;
 
 }
 
@@ -16,7 +16,7 @@ header {
     right: 0;
     height: 70px;
     line-height: 50px;
-    background-color: rgba(0,0,0,0.92);
+    background-color: rgba(white, white, white, alpha);
     backdrop-filter: saturate(180%) blur(20px); 
 }
 
